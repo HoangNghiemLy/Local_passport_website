@@ -44,7 +44,7 @@ node app.js
 
 ## 🚫 Truy cập `/profile` khi chưa đăng nhập
 
-🎥 Demo: <video controls src="./asset/img/20250927-1347-46.4220602.mp4" title="Profile chưa đăng nhập"></video>
+🎥 Demo: <video controls src="./asset/img/1.gif" title="Demo"></video>
 
 👉 **Kết quả:**
 Bị chuyển hướng lại trang **login** vì chưa đăng nhập.
